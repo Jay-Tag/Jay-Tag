@@ -1,19 +1,21 @@
-<h3 align="center">An accomplished data professional from Australia</h3>
+<h3 align="center">An accomplished data professional specialising in Analytics, DL/ML, NLP and Big Data!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jay-Tag&label=Profile%20views&color=0e75b6&style=flat" alt="Jay-Tag" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Snowflake,**
+- 🌱 I’m currently learning **JavaScript and Snowflake**
 
-- 👯 I’m looking to collaborate on **AI, ML and Big Data!**
+- 💡 I have interests in Data Science, Finance, Photography and Health. 
+
+- 👯 I wish to collaborate on **Data Analytics and AI**
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 💬 Ask me about **Data Science, ML, NLP, AI and Python**
+- 💬 Ask me about **Data Science, Machine and Deep Learning, NLP, Computer Vision, AI and Python!**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaydentaggart/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" alt="https://www.linkedin.com/in/jaydentaggart/" height="50" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaydentaggart/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" alt="https://www.linkedin.com/in/jaydentaggart/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
