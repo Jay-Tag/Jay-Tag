@@ -14,11 +14,6 @@
 
 - 💬 Ask me about _**Data Science, Machine and Deep Learning, NLP, Computer Vision, AI and Python!**_
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaydentaggart/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" alt="https://www.linkedin.com/in/jaydentaggart/" height="40" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> 
@@ -35,6 +30,12 @@
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  </p>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jaydentaggart/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" alt="https://www.linkedin.com/in/jaydentaggart/" height="40" width="40" /></a>
+</p>
 
 <!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jay-Tag&show_icons=true&locale=en&layout=compact" alt="Jay-Tag" /></p>  -->
 
