@@ -1,17 +1,18 @@
 <h3 align="center">An accomplished data professional specialising in Analytics, DL/ML, NLP and Big Data!</h3>
 
+<img align="right" alt="Data Science" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jay-Tag&label=Profile%20views&color=0e75b6&style=flat" alt="Jay-Tag" /> </p>
 
-- 🌱 I’m currently learning __**JavaScript and Snowflake**__
+- 🌱 I’m currently learning _**JavaScript and Snowflake**_
 
-- 💡 I have interests in **Data Science, Finance, Photography and Health**
+- 💡 I have interests in _**Data Science, Finance, Photography and Health**_
 
-- 👯 I wish to collaborate on **Data Analytics and AI**
+- 👯 I wish to collaborate on _**Data Analytics and AI**_
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with _**Web Development**_
 
-- 💬 Ask me about **Data Science, Machine and Deep Learning, NLP, Computer Vision, AI and Python!**
-
+- 💬 Ask me about _**Data Science, Machine and Deep Learning, NLP, Computer Vision, AI and Python!**_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,4 +38,4 @@
 
 <!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jay-Tag&show_icons=true&locale=en&layout=compact" alt="Jay-Tag" /></p>  -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jay-Tag&show_icons=true&locale=en" alt="Jay-Tag" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jay-Tag&show_icons=true&locale=en" alt="Jay-Tag" /></p>
