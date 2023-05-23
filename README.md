@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaydentaggart/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" alt="https://www.linkedin.com/in/jaydentaggart/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaydentaggart/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" alt="https://www.linkedin.com/in/jaydentaggart/" height="50" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +33,6 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jay-Tag&show_icons=true&locale=en&layout=compact" alt="Jay-Tag" /></p>
+<!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jay-Tag&show_icons=true&locale=en&layout=compact" alt="Jay-Tag" /></p>  -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jay-Tag&show_icons=true&locale=en" alt="Jay-Tag" /></p>
