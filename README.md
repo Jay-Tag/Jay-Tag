@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jay-Tag&label=Profile%20views&color=0e75b6&style=flat" alt="Jay-Tag" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and Snowflake**
+- 🌱 I’m currently learning __**JavaScript and Snowflake**__
 
-- 💡 I have interests in Data Science, Finance, Photography and Health. 
+- 💡 I have interests in **Data Science, Finance, Photography and Health**
 
 - 👯 I wish to collaborate on **Data Analytics and AI**
 
