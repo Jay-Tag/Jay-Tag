@@ -1,6 +1,6 @@
 <h3 align="center">An accomplished data professional specialising in Analytics, DL/ML, NLP and Big Data!</h3>
 
-<img align="right" alt="Data Science" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
+<img align="right" alt="Data Science" width="400" src="/data-science-2-looped.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jay-Tag&label=Profile%20views&color=0e75b6&style=flat" alt="Jay-Tag" /> </p>
 
